@@ -169,7 +169,7 @@ body {
 
 #music-toggle {
     position: absolute;
-    top: 35px;
+    top: 35px; /* Moved lower from 15px to avoid title */
     right: 1px;
     padding: 8px 16px;
     font-size: 16px;
